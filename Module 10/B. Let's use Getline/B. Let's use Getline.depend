@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697770229 source:d:\phitron\module 10\b. let's use getline\main.c
+	<stdio.h>
+	<stdlib.h>
+

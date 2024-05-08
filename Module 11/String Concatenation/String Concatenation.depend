@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697962577 source:d:\phitron\module 11.3\string concatenation\main.c
+	<stdio.h>
+	<stdlib.h>
+

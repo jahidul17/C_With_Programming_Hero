@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1696585014 source:d:\phitron\practice\sum of two numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1696585337 source:d:\phitron\practice\sum of two numbers\n times.c
+	<stdio.h>
+	<stdlib.h>
+
